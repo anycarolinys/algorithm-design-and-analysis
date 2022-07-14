@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "ee124c3cd1ec6752",
+    "type": "split",
+    "children": [
+      {
+        "id": "f642438171d1e1c5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Solucao/Solucao-Lista-1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f188ae9c8170f603",
+    "type": "split",
+    "children": [
+      {
+        "id": "9843b3d31b2119cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dfcb29d78d722cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "08f170e5f515e719",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336
+  },
+  "right": {
+    "id": "c38464b941d1de18",
+    "type": "split",
+    "children": [
+      {
+        "id": "340187101ac29b00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f7cecf8cfab5dc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Solucao/Solucao-Lista-1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87acb1e5e5a6fc2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "f642438171d1e1c5",
+  "lastOpenFiles": [
+    "Solucao/Solucao-Lista-1.md",
+    "Solucao/Lista 1.pdf",
+    "Solucao/Solucao-Lista-1.pdf",
+    "Sem título.md",
+    "Complexidades.md",
+    "Solucao-Lista-1.md",
+    "Solucao.pdf",
+    "Solucao.md",
+    "Lista 1.pdf"
+  ]
+}

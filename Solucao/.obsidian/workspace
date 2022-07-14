@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "9f3af8df0be9599b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b44f809ed9dd11c5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Solucao-Lista-1.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "161d8c04e3247e7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e66e21f08e79de23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d176255fcd230821",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5cc6dfc4fadeef9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6e12ba62219789a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf60eddf0ddcab87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5437b502e5c2c25c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Solucao-Lista-1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b44f809ed9dd11c5",
+  "lastOpenFiles": [
+    "Solucao-Lista-1.md"
+  ]
+}
